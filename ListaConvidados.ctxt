@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ListaConvidados
+comment1.params=quantidade
+comment1.target=ListaConvidados(int)
+comment2.params=nome
+comment2.target=boolean\ inserir(java.lang.String)
+comment3.params=
+comment3.target=boolean\ printar()
+comment4.params=nome
+comment4.target=boolean\ remover(java.lang.String)
+comment5.params=nome
+comment5.target=boolean\ verificar(java.lang.String)
+comment6.params=nome\ nome2
+comment6.target=boolean\ editar(java.lang.String,\ java.lang.String)
+comment7.params=
+comment7.target=boolean\ ordenar()
+comment8.params=tam
+comment8.target=boolean\ editarTam(int)
+comment9.params=
+comment9.target=int\ getTam()
+numComments=10
